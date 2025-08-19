@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## ⚡ Fun Fact
-I love experimenting with **websites, cheats, mods, customizations, and unique tools** that make apps or usage better!
+I love experimenting with **websites, cheats, mods, customizations, and unique tools** that makes usage easier and more enjoyable!
 ---
 # 🌐 My Public Websites & Projects
 
