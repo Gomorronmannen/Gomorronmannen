@@ -3,6 +3,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on **Building Nice & Clean Websites**
 - 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
+- 💫 I play a lot of different games. Including: **Valorant, Roblox, Overwatch, Minecraft, CoD, Phasmophobia, Raft, Repo, Gorilla Tag, Apex legends, CS2**, and *many* more...
 - 📫 Reach me here: [My Social Profile](https://gomorronmannen.github.io/my-profile/)
 - Or in my [Discord server](https://discord.gg/A4wNyhpSvA) :)
 ---
