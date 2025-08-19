@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Building Nice & Clean Websites**
+- 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
 - 📫 Reach me here: [My Social Profile](https://gomorronmannen.github.io/my-profile/)
 - Or in my [Discord server](https://discord.gg/A4wNyhpSvA) :)
 ---
@@ -11,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## ⚡ Fun Fact
-I love experimenting with **mods, customizations, and unique tools** that make apps or Windows better!
+I love experimenting with **websites, cheats, mods, customizations, and unique tools** that make apps or usage better!
 ---
 # 🌐 My Public Websites & Projects
 
