@@ -1,9 +1,9 @@
 name: GitHub Snake
 
 on:
-  schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+schedule:
+  - cron: '0 * * * *'       # Every hour
+  - cron: '*/30 * * * *'    # Every 30 minutes
   workflow_dispatch:
 
 jobs:
