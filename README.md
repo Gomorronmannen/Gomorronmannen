@@ -17,6 +17,7 @@
   - CS2  
   - *...and many more!*  
 - 📫 Reach me here: [My Social Profile](https://gomorronmannen.github.io/my-profile/)
+  ![Snake](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
