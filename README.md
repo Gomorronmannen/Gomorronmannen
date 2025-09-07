@@ -17,7 +17,6 @@
   - CS2  
   - *...and many more!*  
 - 📫 Reach me here: [My Social Profile](https://gomorronmannen.github.io/my-profile/)
-- 💬 Or join my [Discord server](https://discord.gg/A4wNyhpSvA)
 
 ---
 
@@ -28,6 +27,42 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🌐 Social & Contact
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+---
+
+## 🎮 Games I Play
+![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Overwatch](https://img.shields.io/badge/Overwatch-f99e1a?style=for-the-badge&logo=overwatch&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62b47a?style=for-the-badge&logo=minecraft&logoColor=white)
+![Call of Duty](https://img.shields.io/badge/Call_of_Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white)
+![Phasmophobia](https://img.shields.io/badge/Phasmophobia-0d0d0d?style=for-the-badge&logo=ghostery&logoColor=white)
+![Raft](https://img.shields.io/badge/Raft-008080?style=for-the-badge&logo=opensea&logoColor=white)
+![Gorilla Tag](https://img.shields.io/badge/Gorilla_Tag-ff69b4?style=for-the-badge&logo=monkeytie&logoColor=white)
+![Apex Legends](https://img.shields.io/badge/Apex_Legends-d32f2f?style=for-the-badge&logo=apexlegends&logoColor=white)
+![CS2](https://img.shields.io/badge/CS2-1b1b1b?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 ---
 
@@ -68,4 +103,3 @@ Browse repositories, star favorites, and follow for updates.
 - 🔗 [Useful Links List](https://coffee-cheats-web.github.io/Useful-Links/) – A website that lists free movies, app mods, and other cool things. Made for **Haikaffee**.  [Their Discord](https://discord.gg/yuWwTcmQDH)
 
 ---
-
