@@ -11,21 +11,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Building Nice & Clean Websites**
+- 🔭 I’m currently working on **Coding/Posting at least one thing every day!**
 - 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
-- 💫 I play a lot of different games, including:
-  - Valorant  
-  - Roblox  
-  - Overwatch  
-  - Minecraft  
-  - Call of Duty  
-  - Phasmophobia  
-  - Raft  
-  - Repo  
-  - Gorilla Tag  
-  - Apex Legends  
-  - CS2  
-  - *...and many more!*  
 - 📫 Reach me here: [My Social Profile](https://gomorronmannen.github.io/my-profile/)
 
 ---
@@ -61,11 +48,6 @@
 ![Gorilla Tag](https://img.shields.io/badge/Gorilla_Tag-ff69b4?style=for-the-badge&logo=monkeytie&logoColor=white)
 ![Apex Legends](https://img.shields.io/badge/Apex_Legends-d32f2f?style=for-the-badge&logo=apexlegends&logoColor=white)
 ![CS2](https://img.shields.io/badge/CS2-1b1b1b?style=for-the-badge&logo=counterstrike&logoColor=white)
-
----
-
-## ⚡ Fun Fact
-I love experimenting with **websites, cheats, mods, customizations, and unique tools** that make apps easier and more enjoyable to use!
 
 ---
 
