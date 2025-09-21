@@ -1,6 +1,5 @@
 # Hi there 👋, I’m Gomorronmannen
 
-https://camo.githubusercontent.com/badcabff4ad745a9dd6822454719b96a145d1d2b5165c6276cfb88878baa27d6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e7563617826636f6c6f723d626c756576696f6c6574
 ## 🚀 About Me
 - 🔭 I’m currently working on **Building Nice & Clean Websites**
 - 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
