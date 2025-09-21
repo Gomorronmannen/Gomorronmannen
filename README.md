@@ -6,7 +6,6 @@
 [![Gomorronmannen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomorronmannen&show_icons=true&count_private=true&theme=radical)](https://github.com/Gomorronmannen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomorronmannen&layout=compact&theme=radical)](https://github.com/Gomorronmannen)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomorronmannen&theme=radical)](https://git.io/streak-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gomorronmannen&theme=react-dark&area=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gomorronmannen&theme=radical&no-frame=true&margin-w=5)](https://github.com/Gomorronmannen)
 
 ---
@@ -33,21 +32,13 @@
 
 ## 🛠️ Tech & Tools I Use
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
