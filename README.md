@@ -1,6 +1,11 @@
 # Hi there 👋, I’m Gomorronmannen
 
 ![Visitors](https://komarev.com/ghpvc/?username=Gomorronmannen&color=blueviolet)
+
+<!-- GitHub Stats -->
+[![Gomorronmannen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomorronmannen&show_icons=true&count_private=true&theme=radical)](https://github.com/Gomorronmannen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomorronmannen&layout=compact&theme=radical)](https://github.com/Gomorronmannen)
 ## 🚀 About Me
 - 🔭 I’m currently working on **Building Nice & Clean Websites**
 - 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
