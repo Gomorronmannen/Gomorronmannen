@@ -4,8 +4,16 @@
 
 <!-- GitHub Stats -->
 [![Gomorronmannen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomorronmannen&show_icons=true&count_private=true&theme=radical)](https://github.com/Gomorronmannen)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomorronmannen&layout=compact&theme=radical)](https://github.com/Gomorronmannen)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomorronmannen&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gomorronmannen&theme=radical&no-frame=true&margin-w=5)](https://github.com/Gomorronmannen)
+
+<!-- Followers / Following -->
+![GitHub followers](https://img.shields.io/github/followers/Gomorronmannen?label=Followers&style=social)
+![GitHub following](https://img.shields.io/github/following/Gomorronmannen?label=Following&style=social)
+
+---
+
 ## 🚀 About Me
 - 🔭 I’m currently working on **Building Nice & Clean Websites**
 - 🥂 I love *cheating* in games and sometimes even developing those cheats **myself**!
@@ -103,5 +111,3 @@ Browse repositories, star favorites, and follow for updates.
 
 ### 🌍 Projects Made for Others
 - 🔗 [Useful Links List](https://coffee-cheats-web.github.io/Useful-Links/) – A website that lists free movies, app mods, and other cool things. Made for **Haikaffee**.  [Their Discord](https://discord.gg/yuWwTcmQDH)
-
----
