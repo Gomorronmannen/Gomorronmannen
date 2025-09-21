@@ -71,7 +71,7 @@ Browse repositories, star favorites, and follow for updates.
 - 🎮 [Roblox Game Copier](https://gomorronmannen.github.io/roblox-game-copier/) – Copy any Roblox game and customize it.  
 - ✅ [To-Do List](https://gomorronmannen.github.io/to-do-list/) – Simple task tracker.
 - 🖱️ [Clicker Game](https://gomorronmannen.github.io/clicker-game/) – Addictive game inspired by Cookie Clicker.
-- ➕ [2048 Game](https://gomorronmannen.github.io/2048-game/) – My **first website project** 🎉
+- ➕ [2048 Game](https://gomorronmannen.github.io/2048-game/) – My **first ever coding project** 🎉
 - 📓 [Journal](https://gomorronmannen.github.io/official-public-journal/) – Public journal (archived).
 - 🍳 [Recipes](https://gomorronmannen.github.io/gomorron-recipes/) – A collection of recipes.
 - 🎁 [Gift Finder](https://gomorronmannen.github.io/gift-finder/) – A fun gift calculator.
