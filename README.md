@@ -5,7 +5,6 @@
 <!-- GitHub Stats -->
 [![Gomorronmannen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomorronmannen&show_icons=true&count_private=true&theme=radical)](https://github.com/Gomorronmannen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gomorronmannen&layout=compact&theme=radical)](https://github.com/Gomorronmannen)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gomorronmannen&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gomorronmannen&theme=radical&no-frame=true&margin-w=5)](https://github.com/Gomorronmannen)
 
 ---
